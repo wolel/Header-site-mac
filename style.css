@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+nav{
+    background: #333333 !important; ;
+    text-align: center;
+    padding: 2px;
+
+}
+ul li{
+    color: #d6d6d6;
+    display: inline-block;
+    cursor: pointer;
+    padding-left: 100px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+
+}
+ul li:hover{
+    color: #888888;
+    transition: color 500ms;
+}
+#loupe{
+    margin-right: 70px;
+    float: right;
+}
+#loupe:hover{
+    color: #888888;
+    transition: color 500ms;
+}
+.texte {
+    font-family: 'Montserrat', cursive;
+}
+.Iphone{
+    font-size: 80px;
+    color: white;
+
+}
+.display{
+    font-size: 30px;
+    color: white;
+    letter-spacing: 3px;
+    text-align: center;
+    margin-top: -40px;
+}
+.price{
+    font-size: 15px;
+    color:grey;
+    letter-spacing: 3px;
+    text-align: center;
+    margin-top: -10px;
+}
+.footer{
+    height: 200px;
+    background: white;
+    text-align: center;
+    margin-top: 270px;
+    padding-top: 50px;
+    font-size: 45px;
+    font-family: 'Montserrat', cursive;
+    color: black;
+}
+
