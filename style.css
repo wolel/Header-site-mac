@@ -62,4 +62,11 @@ ul li:hover{
     font-family: 'Montserrat', cursive;
     color: black;
 }
-
+#logoMac:hover{
+    opacity: 0.5;
+    transition: opacity 1s;
+}
+#logoLoupe:hover{
+    opacity: 0.5;
+    transition: opacity 1s;
+}
